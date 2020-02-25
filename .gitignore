@@ -1,0 +1,38 @@
+# for visual studio
+Anita/.vs/
+Anita/obj/
+Anita/Anita.sln
+Anita/Assembly-CSharp-Editor.csproj
+Anita/Assembly-CSharp.csproj
+Anita/tempbuildLog
+
+# for jetbrain rider
+Anita/.idea/
+Anita/[Aa]ssets/Plugins/Editor/JetBrains/
+
+# for unity temp directory
+Anita/Library/
+Anita/Temp/
+Anita/Logs/
+# for build ab
+Anita/AssetBundles
+
+# for build platform
+Anita/Anita_Release_SA/
+Anita/Anita_Release_Web/
+
+# for other tools
+BuildTool/nginx/gotpc_app/
+BuildTool/nginx/gotpc_assetbundle/
+BuildTool/nginx/gotpc_windows_assetbundle/
+BuildTool/nginx/logs/
+Anita/LocalBuild/
+BuildTool/nginx/projectRoot/
+
+Anita/Assets/_TerrainAutoUpgrade.meta
+tempbuildLog
+Anita/Assets/Script/Game/moduls/Chapter/Charge.meta
+Anita/Folder.DotSettings.user
+Anita/Assets/Plugins/Editor/JetBrains.meta
+Anita/Assets/Plugins/Editor.meta
+Anita/Assets/External/Share
